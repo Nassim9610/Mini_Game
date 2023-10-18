@@ -1,0 +1,5 @@
+.gitignore
+Panel/__pycache__/welcomePanel.cpython-310.pyc
+Panel/__pycache__/gamePanel.cpython-310.pyc
+Panel/__pycache__/prologuePanel.cpython-310.pyc
+Panel/__pycache__/textAnimation.cpython-310.pyc
